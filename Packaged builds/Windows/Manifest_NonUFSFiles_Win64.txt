@@ -1,0 +1,16 @@
+Starlitseas/Binaries/Win64/D3D12/D3D12Core.dll	2024-02-26T15:04:49.099Z
+Starlitseas/Binaries/Win64/OpenImageDenoise.dll	2024-02-26T15:11:25.286Z
+Starlitseas/Binaries/Win64/Starlitseas-Win64-Shipping.exe	2024-05-02T09:32:22.259Z
+Starlitseas/Binaries/Win64/tbb.dll	2024-02-26T15:04:44.290Z
+Starlitseas/Binaries/Win64/tbb12.dll	2024-02-26T15:11:24.485Z
+Starlitseas/Binaries/Win64/tbbmalloc.dll	2024-02-26T15:04:44.295Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2024-02-26T15:06:19.232Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-02-26T15:04:28.300Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-02-26T15:04:45.965Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2024-02-26T15:04:45.978Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-02-26T15:04:46.081Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-02-26T15:04:49.087Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-02-26T15:04:49.087Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-02-26T15:04:49.272Z
+Engine/Content/Slate/Cursor/invisible.cur	2024-02-26T15:05:31.885Z
+Starlitseas.exe	2024-05-02T09:32:38.771Z
